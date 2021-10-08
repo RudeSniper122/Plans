@@ -131,8 +131,8 @@ body{
 
 
 /* Premium section start */
-.premiumServices h3{
-  margin: 80px 0 30px 0;
+h3.x{
+  margin: 80px 0 30px 30px;
 }
 .premiumService{
   background-color: white;
